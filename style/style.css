@@ -13,10 +13,21 @@ a{
     color: rgb(242, 233, 233);
     text-decoration: none;
     border: 2px solid rgb(242, 223, 233);
-    margin-right: 40px;
+    margin-right: 70px;
 }
 .carousel{
     display: block;
     width: 950px;
     margin: 0 auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(242, 233, 233);
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: rgb(242, 233, 233);
 }
