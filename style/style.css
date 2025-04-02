@@ -31,3 +31,10 @@ p{
     text-align: center;
     color: rgb(242, 233, 233);
 }
+.form-row{
+    text-align: center;
+    
+}
+.form-row-button{
+    margin-left: 50px;
+}
