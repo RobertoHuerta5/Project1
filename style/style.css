@@ -1,6 +1,19 @@
 body{
-    background-color: rgb(127, 255, 212);
+    background-color: rgb(177, 32, 61);
+}
+
+nav{
+    background-color: rgb(4, 183, 49);
+    font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+     
+}
+
+a{
+    color: rgb(242, 233, 233);
+    text-decoration: none;
+    border: 2px solid rgb(242, 223, 233);
+    margin-right: 40px;
 }
 
 .container-fluid{
