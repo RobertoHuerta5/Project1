@@ -1,6 +1,7 @@
 # Roberto Huerta
 
 ## The Italian Cafe
+The Italian Cafe is an Italian based restraunt
 
 ### User Stories
 1. As a customer who likes to try new restraunts I want to clearly see a menu with what foods are being offered so that I can make my decision on picking this restraunt.
@@ -19,3 +20,8 @@
 3. Bootstrap
 
 ## Wireframes
+
+
+## Future Technologies
+1. Add more food items to display in the menu.
+2. Add a page where customers can place online food orders.
