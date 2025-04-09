@@ -20,7 +20,7 @@ The Italian Cafe is an Italian based restraunt that offers a variety of Italian 
 3. Bootstrap
 
 ## Wireframes
-
+[Menu](/images/MenuWireframe.png)
 
 ## Future Technologies
 1. Add more food items to display in the menu.
