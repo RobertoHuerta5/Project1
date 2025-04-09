@@ -1,7 +1,7 @@
 # Roberto Huerta
 
 ## The Italian Cafe
-The Italian Cafe is an Italian based restraunt
+The Italian Cafe is an Italian based restraunt that offers a variety of Italian plates. The main priority of The Italian Cafe is customer satisfaction, making sure that all customers get to have an amazing experience while having dinner here. The website includes a small part of the menu, but it also allows customers to book a reservation ahead of time, so they have little to wait time to get seated.
 
 ### User Stories
 1. As a customer who likes to try new restraunts I want to clearly see a menu with what foods are being offered so that I can make my decision on picking this restraunt.
