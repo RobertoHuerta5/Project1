@@ -22,6 +22,8 @@ The Italian Cafe is an Italian based restraunt that offers a variety of Italian 
 ## Wireframes
 ![alt text](images/MenuWireframe.png)
 ![alt text](images/ReservationWireframe.png)
+![alt text](images/ReservationWireframe.png)
+
 ## Future Technologies
 1. Add more food items to display in the menu.
 2. Add a page where customers can place online food orders.
